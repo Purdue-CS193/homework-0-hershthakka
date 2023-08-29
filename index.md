@@ -1,5 +1,11 @@
 # Hersh Thakkar's First CS193 Homework
 
+My favorite things about CS 193 so far are:
+
+- The memes
+- The funny folder names
+- The useful tips for terminal use
+
 ## Welcome to GitHub Pages
 
 You can now use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
